@@ -1,0 +1,4 @@
+This is change from branchA
+notepad conflict.txt
+This is resolved conflict from branchA and branchB
+
