@@ -1,1 +1,1 @@
-notepad conflict.txt
+This is change from branchA
